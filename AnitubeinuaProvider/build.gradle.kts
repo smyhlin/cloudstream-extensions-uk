@@ -11,7 +11,7 @@ cloudstream {
     // All of these properties are optional, you can safely remove them
 
     description = "На нашому сайті ви можете подивитися аніме онлайн українською безкоштовно. Великий список аніме онлайн тільки у нас."
-    authors = listOf("CakesTwix")
+    authors = listOf("CakesTwix", "smyhlin")
 
     /**
      * Status int as the following:
